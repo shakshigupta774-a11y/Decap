@@ -24,9 +24,12 @@ Most people don’t have a quick way to check if what they’re reading is trust
 ## 🎨 Prototype
 - **Figma interactive demo:** [👉 Open Decap prototype]([FIGMA_LINK_HERE](https://www.figma.com/make/piITtdsN1SWMtQOvRKbEZc/VedixAI-Mobile-App?node-id=0-1&t=jrhczlYNqlsUWokj-1))  
 - Exported design screenshots :-
-- Decap home page- <img width="568" height="818" alt="image" src="https://github.com/user-attachments/assets/76419fa6-34f6-4ca2-bea8-dcf9738dd7f4" />
-- Decap result page-<img width="552" height="817" alt="image" src="https://github.com/user-attachments/assets/a870414b-46d1-4011-ac57-2ea3762d5860" />
-- Decap lessons page-<img width="542" height="825" alt="image" src="https://github.com/user-attachments/assets/9fdbd555-7109-42e2-84d1-abc86583fec8" />
+- Decap home page-
+  <img width="568" height="818" alt="image" src="https://github.com/user-attachments/assets/76419fa6-34f6-4ca2-bea8-dcf9738dd7f4" />
+- Decap result page-
+  <img width="552" height="817" alt="image" src="https://github.com/user-attachments/assets/a870414b-46d1-4011-ac57-2ea3762d5860" />
+- Decap lessons page-
+  <img width="542" height="825" alt="image" src="https://github.com/user-attachments/assets/9fdbd555-7109-42e2-84d1-abc86583fec8" />
 
 
 
