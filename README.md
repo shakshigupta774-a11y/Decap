@@ -1,7 +1,7 @@
 # Decap — AI-powered misinformation defender
 
 **Decap** is a prototype app built for the GenAI Exchange Hackathon.  
-It helps users instantly verify suspicious forwards and links, while also teaching them how to spot misinformation through micro-lessons in meme format.  
+It helps users instantly verify suspicious forwards and links, while also teaching them how to spot misinformation through micro-lessons in meme or tip format.  
 
 ---
 
